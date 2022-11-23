@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bella/AndroidStudioProjects/dtschapter04-starter-starter04/app/src/main/res/layout/activity_detail.xml" value="0.22" />
+        <entry key="..\:/Users/bella/AndroidStudioProjects/dtschapter04-starter-starter04/app/src/main/res/layout/activity_forgot_password.xml" value="0.1" />
+        <entry key="..\:/Users/bella/AndroidStudioProjects/dtschapter04-starter-starter04/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/bella/AndroidStudioProjects/dtschapter04-starter-starter04/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/bella/AndroidStudioProjects/dtschapter04-starter-starter04/app/src/main/res/layout/activity_register_result.xml" value="0.1" />
+        <entry key="..\:/Users/bella/AndroidStudioProjects/dtschapter04-starter-starter04/app/src/main/res/layout/activity_reset_password.xml" value="0.1" />
+        <entry key="..\:/Users/bella/AndroidStudioProjects/dtschapter04-starter-starter04/app/src/main/res/layout/activity_success.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/bella/AndroidStudioProjects/dtschapter04-starter-starter04/app/src/main/res/layout/activity_welcome_back.xml" value="0.1" />
+        <entry key="..\:/Users/bella/AndroidStudioProjects/dtschapter04-starter-starter04/app/src/main/res/layout/activity_welcome_slide.xml" value="0.1" />
+        <entry key="..\:/Users/bella/AndroidStudioProjects/dtschapter04-starter-starter04/app/src/main/res/layout/activity_welcome_slide_assign.xml" value="0.13451086956521738" />
+        <entry key="..\:/Users/bella/AndroidStudioProjects/dtschapter04-starter-starter04/app/src/main/res/layout/item_contact.xml" value="0.16666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
